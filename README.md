@@ -9,7 +9,7 @@ More than 50% of lesions are confirmed through histopathology (histo), the groun
 
 <hr>
 
-<b>How to Run This Project</b>
+# How to Run This Project
 <br>
 
 <img src="img/pred_ex.png" width="950"></img>
@@ -22,7 +22,7 @@ Clone the repositiory to your local machine.
 https://github.com/shlvd/Nevus_tester.git
 ```
 
-Open nevus_tester.html in Microsoft Edge browser <img src="img/edge_logo.png" width='30'></img>(it may not work correctly in other browsers!)
+Open nevus_tester.html in Microsoft Edge browser <img src="img/edge_logo.png" width='10'></img>(it may not work correctly in other browsers!)
 
 Select model from list (MobileNet or MobileNet_v2 at the moment)
 
