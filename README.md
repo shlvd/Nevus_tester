@@ -25,3 +25,8 @@ Open [nevus_tester.html](nevus_tester.html) in Microsoft Edge browser <img src="
 Select model from list (MobileNet or MobileNet_v2 at the moment)
 
 Upload an image of nevus and click Predict button (it may take up to 10 seconds to see prediction for the first time)
+
+<hr>
+
+# How to Train the model
+
